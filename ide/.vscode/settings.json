@@ -10,7 +10,7 @@
       "pipelines-7080": {
         "url": "http://jenkins:7080",
         "user": "admin",
-        "password": "admin",
+        "password": "Linux4Ever",
         "useCrumbIssuer": true
       }
     }
